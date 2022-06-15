@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flower_pipe ",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 1.0166666666666666,
+            "value": {
+              "__uuid__": "488d7a98-858f-4ae6-b18f-b4f148fffe65"
+            }
+          },
+          {
+            "frame": 1.2333333333333334,
+            "value": {
+              "__uuid__": "0b13305b-11ce-428c-92a4-03f7bf812b5e"
+            }
+          },
+          {
+            "frame": 1.45,
+            "value": {
+              "__uuid__": "488d7a98-858f-4ae6-b18f-b4f148fffe65"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "0b13305b-11ce-428c-92a4-03f7bf812b5e"
+            }
+          },
+          {
+            "frame": 1.8833333333333333,
+            "value": {
+              "__uuid__": "488d7a98-858f-4ae6-b18f-b4f148fffe65"
+            }
+          },
+          {
+            "frame": 2.1,
+            "value": {
+              "__uuid__": "0b13305b-11ce-428c-92a4-03f7bf812b5e"
+            }
+          },
+          {
+            "frame": 2.316666666666667,
+            "value": {
+              "__uuid__": "488d7a98-858f-4ae6-b18f-b4f148fffe65"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -223
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": -127
+        },
+        {
+          "frame": 2.5166666666666666,
+          "value": -127
+        },
+        {
+          "frame": 3.3333333333333335,
+          "value": -223
+        },
+        {
+          "frame": 5,
+          "value": -223
+        }
+      ]
+    }
+  },
+  "events": []
+}

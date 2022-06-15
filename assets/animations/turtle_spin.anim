@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "turtle_spin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d6fa32bd-98b3-430b-8565-9803d7b03f84"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "3e599e72-30c6-4677-94da-1bf1f857e71d"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9aa4c76b-28d5-4e5b-aedd-01ef0d38e7b8"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b080fc9a-ae05-4ac5-aee4-777c235cf3b5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d6fa32bd-98b3-430b-8565-9803d7b03f84"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

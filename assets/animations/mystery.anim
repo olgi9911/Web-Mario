@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mystery",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ca4e25c1-6674-4e8e-9461-4f5dd56bffe3"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "f396a8c0-e214-409a-b820-c62dc79c953f"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "3a6157a5-a410-4b57-86f8-8fe140eea5b3"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "36f14afb-d864-4949-bbf3-ec84a741165d"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "ca4e25c1-6674-4e8e-9461-4f5dd56bffe3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
